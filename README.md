@@ -14,3 +14,5 @@ Then just recompile the game with your preferred c compiler.
 
 Most importantly of all,
 Enjoy playing chess on your terminal :)
+
+<img width="374" height="741" alt="image" src="https://github.com/user-attachments/assets/b5c7beae-b8ac-4bce-8798-e932071f4cc8" />
