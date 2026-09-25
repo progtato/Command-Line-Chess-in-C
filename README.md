@@ -5,7 +5,7 @@ The game was developed before I started my first year of uni as the uni had a mo
 So I made a small game over a summer of 2025 to learn most of basics of c.
 ## DISCLAIMER: Because I was Lazy (the project kinda died after I started going to uni)
 * The checkmate is not fully implemented and so the game has no end (there's some implementation of it in the code but was never fully implemented)
-* There are no special moves such as tower and kind swap or en passant even if the data structure of a chesspiece could allow for such moves to be implemented.
+* There are no special moves such as tower and king swap or en passant even if the data structure of a chesspiece could allow for such moves to be implemented.
 * The terminal doesn't clear itself so you end up with a cluttered terminal after playing a single game.
 
 No dynamic memory allocation was used in this game.
